@@ -20,6 +20,11 @@ A simple and modern mobile note-taking application designed for a fast and easy 
 
 **Platforms:** iOS · Android
 
+**Available On:**
+
+* [App Store](APP_STORE_LINK)
+* [Google Play](GOOGLE_PLAY_LINK)
+
 ---
 
 ### 📱 Swayly
