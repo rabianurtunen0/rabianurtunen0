@@ -22,7 +22,7 @@ A simple and modern mobile note-taking application designed for a fast and easy 
 
 ---
 
-### 🗳️ Swayly
+### 📱 Swayly
 
 A social mobile application that makes decision-making easier through community opinions.
 
