@@ -65,5 +65,5 @@ Git · GitHub · Figma · App Store Connect · Google Play Console
 ## 🌐 Connect With Me
 
 * 🌍 Portfolio: [rabiaa.dev](https://www.rabiaa.dev)
-* 💼 LinkedIn: [linkedin.com/in/rabianurtunen](https://www.linkedin.com/in/rabianurtunen)
+* 💼 LinkedIn: [linkedin.com/in/rabianurtunen](https://www.linkedin.com/in/rabia-nur-tunen/)
 * 📧 Email: [rabianurtunen0@gmail.com](mailto:rabianurtunen0@gmail.com)
