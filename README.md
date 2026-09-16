@@ -22,8 +22,8 @@ A simple and modern mobile note-taking application designed for a fast and easy 
 
 **Available On:**
 
-* [App Store](APP_STORE_LINK)
-* [Google Play](GOOGLE_PLAY_LINK)
+* [App Store](https://apps.apple.com/us/app/notely-app/id6800683716)
+* [Google Play](https://play.google.com/store/apps/details?id=com.notely.mobile)
 
 ---
 
